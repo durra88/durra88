@@ -1,4 +1,4 @@
-### Hi Noce to see you 👋
+### Hey! Nice to see you 👋
 
 
 hi, i'm Aldardaa Hassan, a passionate self-taught Mobile developer and a freelance software engineer from Sudan.
