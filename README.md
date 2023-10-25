@@ -12,12 +12,13 @@ i take great care in the experience, architecture, and code quality of the thing
 <!-- Here are some ideas to get you started:
  -->
 - 🔭 I’m currently working on Flutter Developement
+- 😄 I’m currently learning Machine Learning,AI
 - 🌱 I’m currently learning Animation
 - 👯 I’m looking to collaborate on Mobile Developement
 <!-- - 🤔 I’m looking for help in -->
 - 💬 ask me about anything, i am happy to help;
 - 📫 How to reach me:aldardaahassan88@gmail.com
-- 😄 Pronouns: durra
+- 😄 Pronouns: durra, Dee
 <!-- - ⚡ Fun fact: ... -->
 
 # 💻Tech Stack
